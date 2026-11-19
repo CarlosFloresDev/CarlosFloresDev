@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://carlos-llano.chefsitturchey.workers.dev"><img src="https://img.shields.io/badge/Portafolio-7c5cff?style=for-the-badge&logo=astro&logoColor=white" alt="Portafolio"></a>
+  <a href="https://www.linkedin.com/in/carlos-llano-flores"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:car.alberto549@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://feka-studios.chefsitturchey.workers.dev"><img src="https://img.shields.io/badge/Feka_Studios-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Feka Studios"></a>
 </p>
